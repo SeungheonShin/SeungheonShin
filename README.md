@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:F4BFBF,100:8CC0DE&height=300&section=header&text=%EC%8B%A0%EC%8A%B9%ED%97%8C's%20Github&fontSize=60&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:F4BFBF,100:8CC0DE&height=200&section=header&text=%EC%8B%A0%EC%8A%B9%ED%97%8C's%20Github&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
 <h3 align="center">💻나의 기술 스택</h3>
 <div align=center>
